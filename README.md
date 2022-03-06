@@ -1,2 +1,1 @@
-# Basic-Setup
-This is Basic setup and Basic tool for Termux
+# How to Hack using Termux
